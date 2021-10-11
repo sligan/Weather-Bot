@@ -1,7 +1,9 @@
 ![alt text](https://img.shields.io/badge/Python-3.9-blue)
 # Weather Bot for Telegram 🌦
-This [Weather bot](https://t.me/WeatherShelk_bot) allows you to find out what the weather in the city today, tomorrow and the day after tomorrow. 
-
+This [Weather bot](https://t.me/WeatherShelk_bot) allows you to find out what the weather in the city today, tomorrow and the day after tomorrow.  
+  
+  
+![Alt Text](https://puu.sh/Ihx1M/a863026904.gif)
 ## How to run 
 
   Add to environment variables (create an .env file) Telegram API key (get it from [@BotFather](https://telegram.me/botfather) when creating a new bot with /newbot command).  
