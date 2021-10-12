@@ -1,4 +1,5 @@
 ![alt text](https://img.shields.io/badge/Python-3.9-blue)
+![alt text](https://img.shields.io/badge/pyTelegramBotAPI-0.3.0-blue)
 # Weather Bot for Telegram 🌦
 This [Weather bot](https://t.me/WeatherShelk_bot) allows you to find out what the weather in the city today, tomorrow and the day after tomorrow.  
   
